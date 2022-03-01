@@ -6,13 +6,21 @@ body
     font-family: "Arial";
 }
 h1{
-    color: #FF5733;
+    color: brown;
     text-align: center;
 }
 table{
-    border: blue 1px solid;
+    border: rebeccapurple 2px solid;
     text-align: center;
+    padding: 0.5%;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    
 }
 td,th{
-    border: blue 1px solid;
+    border: rebeccapurple 2px solid;
+    
 }
+
