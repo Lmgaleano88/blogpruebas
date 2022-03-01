@@ -1,5 +1,6 @@
 body
 {
+    background-image: url(https://img.freepik.com/vector-gratis/estilo-fondo-textura-elegante-blanco_23-2148432200.jpg?size=626&ext=jpg);
     color: black;
     text-align: left;
     font-family: "Arial";
@@ -7,4 +8,11 @@ body
 h1{
     color: #FF5733;
     text-align: center;
+}
+table{
+    border: blue 1px solid;
+    text-align: center;
+}
+td,th{
+    border: blue 1px solid;
 }
